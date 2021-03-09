@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: Helvetica;
+    background-color: black;
+}
+
+.principal{
+    background-color: white;
+    width: 470px;
+    height: 600px;
+    position: absolute;
+    top: 25%;
+    left: 32%;
+    font-size: 18px;
+    overflow: hidden;
+}
+
+.lg{
+    display: inline-block;
+    padding: 10px;
+}
+
+.texto {
+    font-size: 15px;
+}
+
+.texto p{
+    margin: 0;
+}
+
+.texto h3{
+    margin: 0;
+}
+
+.puntitos{
+    float: right;
+    padding-top: 15px;
+    padding-right: 10px;
+}
+
+.photo img{
+    width: 100%;
+}
+
+
+.likes{
+    padding-left: 10px;
+}
+
+.parrafo{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+
